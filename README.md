@@ -6,63 +6,40 @@
 
   <h1 align="center">Universidade Federal de Mato Grosso do Sul</h1>
 
-  <h3 align="center">Disciplina</h3>
+  <h3 align="center">Programação para Dispositivos Móveis</h3>
 
-  <h3 align="center">Docente</h3>
+  <h3 align="center">Ana Karina</h3>
 
-  <h1 align="center">Título</h1>
+  <h1 align="center">Exercícios Praticados em Aula</h1>
 </p>
-
-
-# 
 
 ## Sobre
 
----
-
-[![Product Name Screen Shot][screenshot]](https://example.com)
-
-Descrição e objetivo do projeto.
+Projeto contendo alguns exercícios praticados durante as aulas.
 
 ## Tecnologia
 
----
-
 ### Linguagens e Frameworks
 
-- Lista das tecnologias utilizadas.
+- Java
 
 ### Ferramentas Utilizadas
 
-- Lista das ferramentas utilizadas.
+- Android Studio Arctic Fox
 
 ## Começando
 
----
-
-Como utilizar o projeto localmente.
+Basta fazer *clone* do projeto e abrir este pelo Android Studio.
 
 ### Pré-requisitos
 
-Descrição dos pré-requisitos.
-
-### Instalação
-
-1. Instruções de instalação:
-
-   ```sh
-   <comandos>
-   ```
+É necessário ter Android Studio e Java instalados.
 
 ## Uso
 
----
-
-Exemplos de como o projeto pode ser usado.
+Este projeto pode ser usado como referência para algumas aplicações móveis mais simples.
 
 ## Licensa
-
----
 
 Distribuído sob a licença [MIT][license-url]. Veja `LICENSE` para mais informações.
 
@@ -73,6 +50,6 @@ Guilherme Carvalho - [Linkedin][linkedin-url] - dev.carvalho@protonmail.com
   <!-- LINKS & IMAGES -->
 
 [ufms-logo]: images/ufms_logo.png
-[screenshot]: images/screenshot.png
+<!-- [screenshot]: images/screenshot.png -->
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-url]: https://www.linkedin.com/in/guilhermercarvalho/
