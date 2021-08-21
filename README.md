@@ -10,7 +10,7 @@
 
   <h3 align="center">Ana Karina</h3>
 
-  <h1 align="center">Exercícios Praticados em Aula</h1>
+  <h3 align="center">Exercícios Praticados em Aula</h3>
 </p>
 
 ## Sobre
